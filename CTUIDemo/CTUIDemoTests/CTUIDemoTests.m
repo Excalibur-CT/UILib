@@ -1,18 +1,18 @@
 //
-//  CTButtonDemoTests.m
-//  CTButtonDemoTests
+//  CTUIDemoTests.m
+//  CTUIDemoTests
 //
-//  Created by Admin on 16/7/11.
+//  Created by Admin on 16/7/22.
 //  Copyright © 2016年 Arvin. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
 
-@interface CTButtonDemoTests : XCTestCase
+@interface CTUIDemoTests : XCTestCase
 
 @end
 
-@implementation CTButtonDemoTests
+@implementation CTUIDemoTests
 
 - (void)setUp {
     [super setUp];

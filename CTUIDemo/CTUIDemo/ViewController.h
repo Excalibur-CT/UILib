@@ -1,8 +1,8 @@
 //
 //  ViewController.h
-//  CTButtonDemo
+//  CTUIDemo
 //
-//  Created by Admin on 16/7/11.
+//  Created by Admin on 16/7/22.
 //  Copyright © 2016年 Arvin. All rights reserved.
 //
 
